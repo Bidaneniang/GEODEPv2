@@ -1,0 +1,32 @@
+2019-07-12 @ 13:32:48: Licence ArcGIS en utilisation: ArcInfo
+2019-07-12 @ 13:32:48: Appliquation des domaines de valeurs
+	CrÃ©ation du domaine Culture_Agricole
+	Assignation du domaine Culture_Agricole au champ util_terr
+	Assignation du domaine Culture_Agricole au champ cult_ante
+	CrÃ©ation du domaine Indicateur_Drainage
+	Assignation du domaine Indicateur_Drainage au champ INDPARDRA
+	CrÃ©ation du domaine Indicateur_Couverture
+	Assignation du domaine Indicateur_Couverture au champ Couv_ass
+	Assignation du domaine Indicateur_Couverture au champ Couv_derob
+	CrÃ©ation du domaine Drainage_Souterrain
+	Assignation du domaine Drainage_Souterrain au champ Drai_Sout
+	CrÃ©ation du domaine Ecoulement_Surface
+	Assignation du domaine Ecoulement_Surface au champ Drai_surf
+	CrÃ©ation du domaine Profil_Cultural
+	Assignation du domaine Profil_Cultural au champ Cond_hydro
+	CrÃ©ation du domaine Bande_Riveraine
+	Assignation du domaine Bande_Riveraine au champ Bande_riv
+	CrÃ©ation du domaine Avaloir
+	Assignation du domaine Avaloir au champ Avaloir
+	CrÃ©ation du domaine Travail_Sol
+	Assignation du domaine Travail_Sol au champ Trav_sol
+	CrÃ©ation du domaine Periode_Engrais
+	Assignation du domaine Periode_Engrais au champ Fum1_per
+	Assignation du domaine Periode_Engrais au champ Fum2_per
+	Assignation du domaine Periode_Engrais au champ Fum3_per
+	CrÃ©ation du domaine Delai_Engrais
+	Assignation du domaine Delai_Engrais au champ Fum1_delai
+	Assignation du domaine Delai_Engrais au champ Fum2_delai
+	Assignation du domaine Delai_Engrais au champ Fum3_delai
+2019-07-12 @ 13:33:20: Fin du script
+
